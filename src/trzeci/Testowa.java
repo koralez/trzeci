@@ -12,6 +12,9 @@ public class Testowa {
 		
 		System.out.println(user.getName() +" is "+ user.getAge() + " old" );
 		
+		Auto auto = new Auto();
+		
+		System.out.println(auto.marka);
 
 	}
 
